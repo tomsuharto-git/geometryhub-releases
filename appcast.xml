@@ -8,7 +8,7 @@
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tomsuharto-git/geometryhub-releases/raw/main/GeometryHub-0.2.dmg" length="29512986" type="application/octet-stream"/>
+            <enclosure url="https://github.com/tomsuharto-git/geometryhub-releases/raw/main/GeometryHub-0.2.dmg" length="29512986" type="application/octet-stream" sparkle:edSignature="YZmkahJ/nTzaz+pYUong94WFyGKfr4aaUrUwOznjwYCY5WZ1ry4VbJ3bcKT3imUWsydeSSXjYk4XISnr91qbBw=="/>
         </item>
     </channel>
 </rss>
