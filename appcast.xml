@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>GeometryHub</title>
+        <item>
+            <title>0.2</title>
+            <pubDate>Fri, 19 Jun 2026 19:46:01 -0400</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tomsuharto-git/geometryhub-releases/raw/main/GeometryHub-0.2.dmg" length="29512986" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
