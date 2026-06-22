@@ -3,12 +3,12 @@
     <channel>
         <title>GeometryHub</title>
         <item>
-            <title>0.8</title>
-            <pubDate>Mon, 22 Jun 2026 07:18:22 -0400</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>0.8</sparkle:shortVersionString>
+            <title>0.9</title>
+            <pubDate>Mon, 22 Jun 2026 07:46:15 -0400</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tomsuharto-git/geometryhub-releases/raw/main/GeometryHub-0.8.zip" length="29017188" type="application/octet-stream" sparkle:edSignature="Viu0j6u+iJTiAYpKqcxZL2duW3g4lMTQGrVLhj5GAkWLVwoUZH4+z82fm1VAvu9LOxZ+TKMAvm6CPAHdJKkPDw=="/>
+            <enclosure url="https://github.com/tomsuharto-git/geometryhub-releases/raw/main/GeometryHub-0.9.zip" length="29032272" type="application/octet-stream" sparkle:edSignature="zKUwBsUPd1LSBXWbgYQNvOKBLVw0MZ1/e6WvCOJoeDABmEaQmQTlBhF0pttdxPTmybAOH4ccd7J0vA2VOMq9CA=="/>
         </item>
     </channel>
 </rss>
